@@ -1,8 +1,8 @@
-name "painlesstraits"
-description "User-defined attribute convenience functions"
-copyright "Copyright © 2014-2015, Edwin van Leeuwen"
-homepage "https://github.com/msoucy/painlesstraits"
-authors "Edwin van Leeuwen" "Pierre Krafft" "Matt Soucy"
+name "painlesstraits-fork"
+description "User-defined attribute convenience functions (maintained fork with improvements)"
+copyright "Copyright © 2014-2016, Edwin van Leeuwen"
+homepage "https://github.com/WebFreak001/painlesstraits"
+authors "Edwin van Leeuwen" "Pierre Krafft" "Matt Soucy" "Jan Jurzitza"
 license "BSL-1.0"
 targetType "library"
 configuration "unittest" {
